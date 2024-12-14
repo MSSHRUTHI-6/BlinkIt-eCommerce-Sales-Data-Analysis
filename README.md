@@ -19,8 +19,9 @@ Data Analysis and Visualization
 The project utilized Excel and Power BI to analyze a comprehensive dataset related to Blinkit's grocery operations. Key KPIs and metrics analyzed include:
 
 
-    **1.** _[BlinkIt Sales Performance Report](https://app.powerbi.com/view?r=eyJrIjoiZDM2YmZiNTAtZTFlNS00YTBjLWJmNzktYTg3MjBiMmFjYzllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_ 
-   
+ **1.**  _[Live Dashboard)(https://app.powerbi.com/view?r=eyJrIjoiZDM2YmZiNTAtZTFlNS00YTBjLWJmNzktYTg3MjBiMmFjYzllIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)_
+
+
 - **Key Performance Indicators (KPIs) & Metrics:** 
      •	Revenue & Sales: 
 o	Total Sales: $1.2M
